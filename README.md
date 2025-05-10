@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🌳 BitTree – A Linktree Clone
+BitTree is a personalized link-sharing platform where users can create a single page to showcase all their important links. Built with Next.js, React, and MongoDB, BitTree offers a simple, responsive, and user-friendly interface to manage and share your online presence from one place.
 
-## Getting Started
+✨ Features
+🧑 Create a profile with your name, bio, and avatar
 
-First, run the development server:
+🔗 Add, edit, and delete multiple custom links
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🌐 Public profile page with a unique URL
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+💾 MongoDB backend for persistent storage
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+⚡ Fast and SEO-friendly with server-side rendering (Next.js)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📱 Fully responsive design for mobile & desktop
 
-## Learn More
+🛠️ Tech Stack
+Frontend: React, Next.js
 
-To learn more about Next.js, take a look at the following resources:
+Backend: Next.js API Routes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Database: MongoDB
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Styling: Tailwind CSS
